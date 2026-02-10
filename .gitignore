@@ -2,6 +2,7 @@
 *.o
 *.out
 *.dll
+*.exe
 *.so
 *.dylib
 # 编译目录
