@@ -1,7 +1,6 @@
 # C++编译产物
 *.o
 *.out
-*.exe
 *.dll
 *.so
 *.dylib
